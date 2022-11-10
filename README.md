@@ -1,5 +1,5 @@
 # Vending Machine
-To run app properly add this NuGet packages:
+To run app properly add this NuGet packages:<br>
 MSTest.TestFramework 2.2.10 version <br>
 MSTest.TestAdapter 2.2.8 version<br>
 Microsoft.NET.Test.Sdk 17.1.0 version<br>
