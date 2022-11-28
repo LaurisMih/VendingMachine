@@ -1,9 +1,9 @@
 # Vending Machine
-To run app properly add this NuGet packages:<br>
-MSTest.TestFramework 2.2.10 version <br>
-MSTest.TestAdapter 2.2.8 version<br>
-Microsoft.NET.Test.Sdk 17.1.0 version<br>
-FluentAssertions 6.8.0 version<br>
+With this app you can:<br>
+1) Add products
+2) Buy products
+3) Change products in machine
+4) Check income
 
 # How it works 
 Run programm and choose action from menu. <br>
